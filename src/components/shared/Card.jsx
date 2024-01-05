@@ -9,7 +9,7 @@ function Card({children, reverse}) {
 }
 
 Card.defaultProps = {
-    reverse: false,
+    reverse: true,
 }
 
 Card.propTypes = {
