@@ -37,3 +37,4 @@ function App (){
 export default App;
 
 // TODO: Update README with learning so far with this app
+// adding it to chore
